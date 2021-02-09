@@ -112,3 +112,15 @@ hr.solid {
   margin: 0 0 0 6px;
   vertical-align: middle;
 }
+
+.footer {
+  margin-bottom: 20px;
+}
+
+.footer-link {
+  color: #000000;
+}
+
+.right {
+  float: right;
+}
